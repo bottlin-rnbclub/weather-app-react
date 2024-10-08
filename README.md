@@ -1,4 +1,8 @@
 # weather-app-react
+## If this project is broken, then use a VPN
+
+
+
 
 ## Installation
 Install my-project with npm
